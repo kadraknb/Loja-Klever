@@ -1,0 +1,81 @@
+#Card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    border-color: rgb(148, 37, 163);
+    transition: 0.3s;
+}
+
+
+#Card:hover {
+    transform: scale(1.1);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#H_card_img_box {
+    background-color: white;
+    max-height: 300px;
+}
+
+#Card-img {
+    margin: auto 0;
+    max-height: 300px;
+    min-height: 200px;
+}
+
+#btn-home-card {
+    border-color: rgb(212, 67, 241);
+}
+
+#link-home-card {
+    color: rgb(226, 43, 217);
+}
+
+#H_card_body {
+    height: 130px;
+}
+
+#H_label_busca {
+    margin-top: 35px;
+    position: relative;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+#H_box_input {
+    border: 5px solid ;
+    border-radius: 9px;
+
+    box-shadow: #be9bff 0px 0px 20px
+}
+#H_Button_busca {
+    border: 0;
+    background-color: rgba(255, 255, 255, 0.603);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#H_input_busca {
+    border: 0;
+    background-color: rgba(255, 255, 255, 0.842);
+
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#H_box_itens {
+    /* position: relative; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#H_preco {
+    height: 25px;
+}
+#H_box_itens_load {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    filter: brightness(0.5);
+}

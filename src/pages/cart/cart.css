@@ -1,0 +1,6 @@
+#C_box_item {
+  display: flex;
+  align-content: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
