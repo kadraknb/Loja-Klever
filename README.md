@@ -7,5 +7,5 @@ O code nao foi alterado e nem refatorado depois das 24h!
 
 ## Prerequisites
 
-- [site](https://loja-klever-production.up.railway.app/)
+- [Site do projeto](https://loja-klever-production.up.railway.app/)
 - [Klever Extension](http://klever.finance/wallet)
