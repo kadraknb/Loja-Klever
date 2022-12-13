@@ -5,7 +5,6 @@ eu e minha dupla decidimos fazer uma loja de jogos e assessório gamer.
 
 O code nao foi alterado e nem refatorado depois das 24h!
 
-## Prerequisites
 
 - [Site do projeto](https://loja-klever-production.up.railway.app/)
 - [Klever Extension](http://klever.finance/wallet)
